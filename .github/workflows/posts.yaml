@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule:
+  - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://ac93.uk/articles/index.xml,https://wes4m.io/posts/index.xml"
+        feed_names: ally,wes4m
+        max_post_count: 6
+        readme_path: ./profile/README.md
+        committer_username: alistaircol
+        committer_email: ${{ secrets.COMMITTER_EMAIL }}
+        template: >-
+          $newline$feedName: [$title]($url)$newline> $description$newline$newline
