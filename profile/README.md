@@ -34,4 +34,8 @@ ally: [Laravel pipeline to replace CMS content placeholders with values](https:/
 You can see more here:
 
 * [ally](https://ac93.uk)
+* bazaid
+* brandon
+* bulba
+* soki
 * [wes4m](https://wes4m.io)
