@@ -1,6 +1,6 @@
 # DAFED
 
-Just a bunch of guys from around the world with interests in tech sharing the pain of programming, but mostly memes and pictures of dogs (occasionally cats).
+Just a bunch of guys from around the world with interests in technology, sharing the pain of programming; but it's mostly just memes and pictures of dogs (occasionally cats).
 
 We sometimes write about our pain...
 
