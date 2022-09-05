@@ -18,8 +18,8 @@ jobs:
           https://ebulba.dev/feed
         feed_names: >-
           [ally](https://github.com/alistaircol),
-          [wes4m](https://github.com/orgs/dafedteam/people/wes4m),
-          [bulba](https://github.com/orgs/dafedteam/people/bulb4saur)
+          [wes4m](https://github.com/wes4m),
+          [bulba](https://github.com/bulb4saur)
         max_post_count: 6
         readme_path: ./profile/README.md
         committer_username: alistaircol
