@@ -12,8 +12,14 @@ jobs:
     - uses: actions/checkout@v2
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
-        feed_list: "https://ac93.uk/articles/index.xml,https://wes4m.io/posts/index.xml"
-        feed_names: ally,wes4m
+        feed_list: >-
+          https://ac93.uk/articles/index.xml,
+          https://wes4m.io/posts/index.xml,
+          https://ebulba.dev/feed
+        feed_names: >-
+          ally,
+          wes4m,
+          bulba
         max_post_count: 6
         readme_path: ./profile/README.md
         committer_username: alistaircol
