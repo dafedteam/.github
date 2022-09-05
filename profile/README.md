@@ -9,11 +9,14 @@ We sometimes write about our pain...
 > Create a GitHub workflow to run linters &lpar;e.g. phplint, phpcs&rpar;, run Laravel unit and feature tests, and finally generate a code coverage report.
 
 
-[bulba](https://github.com/orgs/dafedteam/people/bulb4saur): [Poetry, the best python packaging and dependency manager?](https://ebulba.dev/2022/09/04/poetry-the-best-python-packaging-and-demendency-manager/)
-> When we start our journey as python developers we often do not think much about our development environments, we download python, write some commands like python -m pip install my-awesome-package to install package we need for that project and call it a day. This behavior while being very intuitive 
+[bulba](https://github.com/bulb4saur): [Poetry, the best python packaging and dependency manager?](https://ebulba.dev/2022/09/04/poetry-the-best-python-packaging-and-demendency-manager/)
+> When we start our journey as python developers we often do not think much about our development environments, we download python, write some commands like 
+pip install my-awesome-package
+
+to install package we need for that project and call it a day. This behavior while being very intuitive for begi
 
 
-[wes4m](https://github.com/orgs/dafedteam/people/wes4m): [Reverse engineering thermal printers](https://wes4m.io/posts/epson_rev/)
+[wes4m](https://github.com/wes4m): [Reverse engineering thermal printers](https://wes4m.io/posts/epson_rev/)
 > A significant part of my current work involves dealing with thermal printers to print receipts, invoices, item slips etc ..; For those unfamiliar. I&amp;rsquo;m talking about those usually small cashier side printers that print your receipts when you buy something from a restaurant, or any other shop.
 Thermal printers use a universal protocol to send/receive printing commands. This protocol is called ESC/POS. For anyone stumbling on to this post trying to figure-out what the heck is going on with those printers, I feel you.
 
