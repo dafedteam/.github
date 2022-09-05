@@ -25,4 +25,4 @@ jobs:
         committer_username: alistaircol
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
         template: >-
-          $newline$feedName: [$title]($url)$newline> $description$newline$newline
+          $newline[$title]($url)$newline> $description$newline$newline$categories$newline
