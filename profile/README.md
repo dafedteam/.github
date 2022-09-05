@@ -22,7 +22,7 @@ to install package we need for that project and call it a day. This behavior whi
 > A significant part of my current work involves dealing with thermal printers to print receipts, invoices, item slips etc ..; For those unfamiliar. I&amp;rsquo;m talking about those usually small cashier side printers that print your receipts when you buy something from a restaurant, or any other shop.
 Thermal printers use a universal protocol to send/receive printing commands. This protocol is called ESC/POS. For anyone stumbling on to this post trying to figure-out what the heck is going on with those printers, I feel you.
 
-
+Network, Reverse
 
 [Send a templated WhatsApp message through Twilio in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/)
 > Send a message template containing emoji from Twilio in Laravel
