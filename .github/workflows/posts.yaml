@@ -26,10 +26,5 @@ jobs:
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
         categories_template: >-
           <sup>[`$category`](https://ac93.uk/tags/$category)</sup>&nbsp;
-        template: |
-
-          $feedName: [$title]($url)
-
-          > $description
-
-          &nbsp;
+        template: >-
+          $newline$feedName: [$title]($url)$newline> $description$newline$newline
