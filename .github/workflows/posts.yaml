@@ -24,5 +24,12 @@ jobs:
         readme_path: ./profile/README.md
         committer_username: alistaircol
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
-        template: >-
-          $newline$feedName: [$title]($url)$newline> $description$newline$newline
+        categories_template: >-
+          <sup>[`$category`](https://ac93.uk/tags/$category)</sup>&nbsp;
+        template: |
+
+          $feedName: [$title]($url)
+
+          > $description
+
+          &nbsp;
