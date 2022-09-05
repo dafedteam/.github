@@ -39,6 +39,6 @@ You can see more here:
 * [ally](https://ac93.uk)
 * bazaid
 * brandon
-* bulba
+* [bulba](https://ebulba.dev)
 * soki
 * [wes4m](https://wes4m.io)
