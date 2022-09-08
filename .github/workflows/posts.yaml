@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: gautamkrishnar/blog-post-workflow@1.7
+    - uses: gautamkrishnar/blog-post-workflow@1.7.8
       with:
         feed_list: "https://ac93.uk/articles/index.xml,https://wes4m.io/posts/index.xml,https://ebulba.dev/feed"
         feed_names: "[ally](https://github.com/alistaircol),[wes4m](https://github.com/wes4m),[bulba](https://github.com/bulb4saur)"
