@@ -6,7 +6,7 @@ We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
 [ally](https://github.com/alistaircol): [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
-> Learn how to add asynchronous search to a hugo blog with alpine and fuse
+> Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
 hugo, alpine, fuse
 
