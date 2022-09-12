@@ -5,6 +5,15 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[bulba](https://github.com/bulb4saur): [How fast can python make requests?](https://ebulba.dev/2022/09/11/how-fast-can-python-make-requests/)
+> Let&#39;s say you need to make requests using python. Python being the flexible language it is, there are quite a few packages that are easy to use and allow you
+to make requests. Here is in no particular order a list of the most used python HTTP engines.
+
+Aiohttp - Standard well rounded package.
+Httpx 
+
+[object Object], [object Object], [object Object]
+
 [ally](https://github.com/alistaircol): [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
 > Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
@@ -33,11 +42,6 @@ Network, Reverse
 > Send a message template containing emoji from Twilio in Laravel.
 
 laravel, whatsapp, twilio
-
-[ally](https://github.com/alistaircol): [Consume raw SQS messages from another application with Laravel&#39;s queue](https://ac93.uk/articles/laravel-consume-raw-sqs-messages-in-its-job-queue-system/)
-> Easily consume arbitrary raw AWS SQS messages produced by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration.
-
-laravel, aws, sqs
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
