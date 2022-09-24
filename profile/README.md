@@ -1,4 +1,4 @@
-# DAFED
+![DAFED](https://raw.githubusercontent.com/dafedteam/.github/main/profile/dafed.png)
 
 Just a bunch of guys from around the world with interests in technology, sharing the pain of programming; but it's mostly just memes and pictures of dogs (occasionally cats).
 
