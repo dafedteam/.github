@@ -5,6 +5,11 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[ally](https://github.com/alistaircol): [Use git feature to &#39;hide&#39; local changes of a Dockerfile which installs xdebug](https://ac93.uk/articles/git-update-index-assume-unchanged-dockerfile-for-xdebug/)
+> Use git update-index --assume-unchanged to remove local changes of a Dockerfile from the staging area in a repository, and use &lpar;an ignored&rpar; docker-compose.override.yml to configure xdebug.
+
+docker, xdebug, git
+
 [ally](https://github.com/alistaircol): [Basic Cognito user pool with login/logout integration in Laravel, with users/system clients](https://ac93.uk/articles/laravel-integration-with-amazon-cognito/)
 > A relatively basic Laravel integration with an Amazon Cognito user pool with two clients. The first client for web users will be used to initiate &lpar;from Laravel&rpar; login/logout on Cognito&amp;rsquo;s hosted UI with email/password. The second client will be for system users, which will generate tokens with email/password through API instead of hosted UI. Finally, a simple console command to decode/verify web and system users&amp;rsquo; JTWs from the user pool&amp;rsquo;s JWKS.
 
@@ -36,12 +41,6 @@ pip install my-awesome-package
 to install package we need for that project and call it a day. This behavior while being very intuitive for begi
 
 [object Object], [object Object], [object Object], [object Object]
-
-[wes4m](https://github.com/wes4m): [Reverse engineering thermal printers](https://wes4m.io/posts/epson_rev/)
-> A significant part of my current work involves dealing with thermal printers to print receipts, invoices, item slips etc ..; For those unfamiliar. I&amp;rsquo;m talking about those usually small cashier side printers that print your receipts when you buy something from a restaurant, or any other shop.
-Thermal printers use a universal protocol to send/receive printing commands. This protocol is called ESC/POS. For anyone stumbling on to this post trying to figure-out what the heck is going on with those printers, I feel you.
-
-Network, Reverse
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
