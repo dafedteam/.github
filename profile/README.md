@@ -15,6 +15,11 @@ docker, xdebug, git
 
 laravel, cognito, terraform
 
+[bulba](https://github.com/bulb4saur): [Road to one million requests per minute with python.](https://ebulba.dev/road-to-one-million-requests-per-minute-with-python/)
+> &lt;blockquote&gt;Not quite there yet...&lt;/blockquote&gt;&lt;p&gt;Let&amp;apos;s say you need to make requests using python. Python being the flexible language it is, there are quite a few packages that are easy to use and allow you&lt;br&gt;to make requests. Here is in no particular order a list of the most&lt;/p&gt;
+
+python, asyncio
+
 [ally](https://github.com/alistaircol): [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
 > Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
@@ -25,16 +30,10 @@ hugo, alpine, fuse
 
 laravel, github, phpunit
 
-[wes4m](https://github.com/wes4m): [Reverse engineering thermal printers](https://wes4m.io/posts/epson_rev/)
-> A significant part of my current work involves dealing with thermal printers to print receipts, invoices, item slips etc ..; For those unfamiliar. I&amp;rsquo;m talking about those usually small cashier side printers that print your receipts when you buy something from a restaurant, or any other shop.
-Thermal printers use a universal protocol to send/receive printing commands. This protocol is called ESC/POS. For anyone stumbling on to this post trying to figure-out what the heck is going on with those printers, I feel you.
+[bulba](https://github.com/bulb4saur): [What is poetry?](https://ebulba.dev/what-is-poetry/)
+> &lt;p&gt;When we start our journey as python developers we often do not think much about our development environments, we download python, write some commands like &lt;code&gt;pip install my-awesome-package&lt;/code&gt; &amp;#xA0;and call it a day. &lt;/p&gt;&lt;p&gt;This behavior while being very intuitive for beginners is inherently wrong, because at the end of&lt;/p&gt;
 
-Network, Reverse
-
-[ally](https://github.com/alistaircol): [Send a templated WhatsApp message through Twilio in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/)
-> Send a message template containing emoji from Twilio in Laravel.
-
-laravel, whatsapp, twilio
+poetry, python, package-manager, renovate
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
