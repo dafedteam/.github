@@ -5,6 +5,11 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[bulba](https://github.com/bulb4saur): [Road to one million requests per minute with python v2](https://ebulba.dev/road-to-one-million-requests-per-minute-with-python-v2/)
+> &lt;blockquote&gt;Seems to be possible this time!&lt;br&gt;All of the code used below is available &lt;a href=&quot;https://github.com/bulb4saur/scraper_limits&quot;&gt;at my github&lt;/a&gt;&lt;/blockquote&gt;&lt;p&gt;In the previous post, we discussed how fast can python make requests in general. I&amp;apos;ve found it not very practical but quite a fast approach only for making requests. Today I&lt;/p&gt;
+
+asyncio, python, rabbitmq, docker, docker-compose, pydantic
+
 [ally](https://github.com/alistaircol): [Use git feature to &#39;hide&#39; local changes of a Dockerfile which installs xdebug](https://ac93.uk/articles/git-update-index-assume-unchanged-dockerfile-for-xdebug/)
 > Use git update-index --assume-unchanged to remove local changes of a Dockerfile from the staging area in a repository, and use &lpar;an ignored&rpar; docker-compose.override.yml to configure xdebug.
 
@@ -29,11 +34,6 @@ hugo, alpine, fuse
 > Create and configure a GitHub workflow to run PHP QA tools &lpar;e.g. phplint, phpcs&rpar;, and then run unit and feature tests &lpar;e.g. php artisan test, phpunit&rpar;, and finally generate a code coverage report or some other artifact.
 
 laravel, github, phpunit
-
-[bulba](https://github.com/bulb4saur): [What is poetry?](https://ebulba.dev/what-is-poetry/)
-> &lt;p&gt;When we start our journey as python developers we often do not think much about our development environments, we download python, write some commands like &lt;code&gt;pip install my-awesome-package&lt;/code&gt; &amp;#xA0;and call it a day. &lt;/p&gt;&lt;p&gt;This behavior while being very intuitive for beginners is inherently wrong, because at the end of&lt;/p&gt;
-
-poetry, python, package-manager, renovate
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
