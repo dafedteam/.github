@@ -5,11 +5,6 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
-[bulba](https://github.com/bulb4saur): [Road to one million requests per minute with python v2](https://ebulba.dev/road-to-one-million-requests-per-minute-with-python-v2/)
-> &lt;blockquote&gt;Seems to be possible this time!&lt;br&gt;All of the code used below is available &lt;a href=&quot;https://github.com/bulb4saur/scraper_limits&quot;&gt;at my github&lt;/a&gt;&lt;/blockquote&gt;&lt;p&gt;In the previous post, we discussed how fast can python make requests in general. I&amp;apos;ve found it not very practical but quite a fast approach only for making requests. Today I&lt;/p&gt;
-
-asyncio, python, rabbitmq, docker, docker-compose, pydantic
-
 [ally](https://github.com/alistaircol): [Use git feature to &#39;hide&#39; local changes of a Dockerfile which installs xdebug](https://ac93.uk/articles/git-update-index-assume-unchanged-dockerfile-for-xdebug/)
 > Use git update-index --assume-unchanged to remove local changes of a Dockerfile from the staging area in a repository, and use &lpar;an ignored&rpar; docker-compose.override.yml to configure xdebug.
 
@@ -20,11 +15,6 @@ docker, xdebug, git
 
 laravel, cognito, terraform
 
-[bulba](https://github.com/bulb4saur): [Road to one million requests per minute with python.](https://ebulba.dev/road-to-one-million-requests-per-minute-with-python/)
-> &lt;blockquote&gt;Not quite there yet...&lt;/blockquote&gt;&lt;p&gt;Let&amp;apos;s say you need to make requests using python. Python being the flexible language it is, there are quite a few packages that are easy to use and allow you&lt;br&gt;to make requests. Here is in no particular order a list of the most&lt;/p&gt;
-
-python, asyncio
-
 [ally](https://github.com/alistaircol): [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
 > Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
@@ -34,6 +24,17 @@ hugo, alpine, fuse
 > Create and configure a GitHub workflow to run PHP QA tools &lpar;e.g. phplint, phpcs&rpar;, and then run unit and feature tests &lpar;e.g. php artisan test, phpunit&rpar;, and finally generate a code coverage report or some other artifact.
 
 laravel, github, phpunit
+
+[bulba](https://github.com/bulb4saur): [What is poetry?](https://ebulba.dev/what-is-poetry/)
+> &lt;p&gt;When we start our journey as python developers we often do not think much about our development environments, we download python, write some commands like &lt;code&gt;pip install my-awesome-package&lt;/code&gt; &amp;#xA0;and call it a day. &lt;/p&gt;&lt;p&gt;This behavior while being very intuitive for beginners is inherently wrong, because at the end of&lt;/p&gt;
+
+poetry, python, package-manager, renovate
+
+[wes4m](https://github.com/wes4m): [Reverse engineering thermal printers](https://wes4m.io/posts/epson_rev/)
+> A significant part of my current work involves dealing with thermal printers to print receipts, invoices, item slips etc ..; For those unfamiliar. I&amp;rsquo;m talking about those usually small cashier side printers that print your receipts when you buy something from a restaurant, or any other shop.
+Thermal printers use a universal protocol to send/receive printing commands. This protocol is called ESC/POS. For anyone stumbling on to this post trying to figure-out what the heck is going on with those printers, I feel you.
+
+Network, Reverse
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
