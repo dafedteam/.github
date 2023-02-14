@@ -5,6 +5,13 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[wes4m](https://github.com/wes4m): [Side Project #9837: Visual Nodes Scripting](https://wes4m.io/posts/ta-dataflow-programming/)
+> There are many visual programming implementations out there that make approaching some specific tasks easier. One of which is Unreal Engine&amp;rsquo;s Blueprint&amp;rsquo;s system.
+It provides game developers with a way to program visually by connecting different nodes. Each node taking in some inputs, and/or options, doing something with it, then outputting the results. You can also implement your own re-useable nodes using C++. It&amp;rsquo;s apparently turing complete too.
+I wanted to make something similar for a project I&amp;rsquo;m working on, which brings us to: Data Flow Programming, Flow Based Programming, Node Graph Architecture, and a thousand other names.
+
+dev, golang
+
 [bulba](https://github.com/bulb4saur): [Navigating the tech industry as a junior developer: Tips and tricks for success](https://ebulba.dev/navigating-the-tech-industry-as-a-junior-developer-tips-and-tricks-for-success/)
 > &lt;p&gt;Navigating the tech industry as a junior developer can be a daunting task. From learning new technologies to building a strong professional network, there are many challenges that junior developers must overcome. One of the most important strategies for success is listening to your senior developers and asking them for&lt;/p&gt;
 
@@ -29,11 +36,6 @@ laravel, cognito, terraform
 > &lt;blockquote&gt;Not quite there yet...&lt;/blockquote&gt;&lt;p&gt;Let&amp;apos;s say you need to make requests using python. Python being the flexible language it is, there are quite a few packages that are easy to use and allow you&lt;br&gt;to make requests. Here is in no particular order a list of the most&lt;/p&gt;
 
 python, asyncio
-
-[ally](https://github.com/alistaircol): [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
-> Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
-
-hugo, alpine, fuse
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
