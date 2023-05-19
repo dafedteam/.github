@@ -5,6 +5,13 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[wes4m](https://github.com/wes4m): [Demo of 20230609.zip](https://wes4m.io/posts/demo-of-20230609/)
+> Google launched 8 new TLDs on May 3rd, 2023 for EAP including .zip &lpar;Link&rpar; The security community had fun coming with all kinds of phishing ideas using it.
+I made a tool that demonstrated some of this https://20230609.zip. More details and explinations are found in its homepage. The following is just one example of what can be done.
+Github repos Many github repos include scripts such as build.sh docker-build.sh install.sh &amp;hellip;
+
+first
+
 [wes4m](https://github.com/wes4m): [Side Project #9837: Visual Nodes Scripting](https://wes4m.io/posts/ta-dataflow-programming/)
 > There are many visual programming implementations out there that make approaching some specific tasks easier. One of which is Unreal Engine&amp;rsquo;s Blueprint&amp;rsquo;s system.
 It provides game developers with a way to program visually by connecting different nodes. Each node taking in some inputs, and/or options, doing something with it, then outputting the results. You can also implement your own re-useable nodes using C++. It&amp;rsquo;s apparently turing complete too.
@@ -31,11 +38,6 @@ docker, xdebug, git
 > A relatively basic Laravel integration with an Amazon Cognito user pool with two clients. The first client for web users will be used to initiate &lpar;from Laravel&rpar; login/logout on Cognito&amp;rsquo;s hosted UI with email/password. The second client will be for system users, which will generate tokens with email/password through API instead of hosted UI. Finally, a simple console command to decode/verify web and system users&amp;rsquo; JTWs from the user pool&amp;rsquo;s JWKS.
 
 laravel, cognito, terraform
-
-[bulba](https://github.com/bulb4saur): [Road to one million requests per minute with python.](https://ebulba.dev/road-to-one-million-requests-per-minute-with-python/)
-> &lt;blockquote&gt;Not quite there yet...&lt;/blockquote&gt;&lt;p&gt;Let&amp;apos;s say you need to make requests using python. Python being the flexible language it is, there are quite a few packages that are easy to use and allow you&lt;br&gt;to make requests. Here is in no particular order a list of the most&lt;/p&gt;
-
-python, asyncio
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
