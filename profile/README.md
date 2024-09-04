@@ -5,6 +5,11 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[ally](https://github.com/alistaircol): [Private Github Readme Stats server and uploading to S3 with Ansible Semaphore](https://ac93.uk/articles/creating-private-github-readme-stats-generator/)
+> Containerise a private Github Readme Stats server and upload stats card image to S3 using an Ansible playbook on a schedule with Semaphore
+
+github-readme-stats, docker, ansible, semaphore
+
 [wes4m](https://github.com/wes4m): [Demo of 20230609.zip](https://wes4m.io/posts/demo-of-20230609/)
 > Google launched 8 new TLDs on May 3rd, 2023 for EAP including .zip &lpar;Link&rpar; The security community had fun coming with all kinds of phishing ideas using it.
 I made a tool that demonstrated some of this https://20230609.zip. More details and explinations are found in its homepage. The following is just one example of what can be done.
@@ -33,11 +38,6 @@ laravel, cognito, terraform
 > Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
 hugo, alpine, fuse
-
-[ally](https://github.com/alistaircol): [Create a GitHub workflow to run PHP linters, tests, and generate coverage report](https://ac93.uk/articles/laravel-github-workflow-lint-run-unit-and-feature-tests-and-generate-code-coverage-report/)
-> Create and configure a GitHub workflow to run PHP QA tools &lpar;e.g. phplint, phpcs&rpar;, and then run unit and feature tests &lpar;e.g. php artisan test, phpunit&rpar;, and finally generate a code coverage report or some other artifact.
-
-laravel, github, phpunit
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
