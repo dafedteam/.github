@@ -5,17 +5,15 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[wes4m](https://github.com/wes4m): [Lessons from a $5 VPS, Bad Design, and a Traffic Spike](https://wes4m.io/posts/5vps/)
+> A year ago I duct-taped together, in a couple of days, an app for fun as an experiment. Without putting much thought into its design or scaleability. I then put it to run on a tiny ~$5 VPS. Not expecting more than a few users. It went on to gain users very slowly for a year. Until, fast forward to last month, STUDI&amp;rsquo;s traffic and users spiked nearly 20x in just a few days, and reached 2nd on AppStore&amp;rsquo;s education charts.
+
+
+
 [ally](https://github.com/alistaircol): [Private Github Readme Stats server and uploading to S3 with Ansible Semaphore](https://ac93.uk/articles/creating-private-github-readme-stats-generator/)
 > Containerise a private Github Readme Stats server and upload stats card image to S3 using an Ansible playbook on a schedule with Semaphore
 
 github-readme-stats, docker, ansible, semaphore
-
-[wes4m](https://github.com/wes4m): [Demo of 20230609.zip](https://wes4m.io/posts/demo-of-20230609/)
-> Google launched 8 new TLDs on May 3rd, 2023 for EAP including .zip &lpar;Link&rpar; The security community had fun coming with all kinds of phishing ideas using it.
-I made a tool that demonstrated some of this https://20230609.zip. More details and explinations are found in its homepage. The following is just one example of what can be done.
-Github repos Many github repos include scripts such as build.sh docker-build.sh install.sh &amp;hellip;
-
-first
 
 [wes4m](https://github.com/wes4m): [Side Project #9837: Visual Nodes Scripting](https://wes4m.io/posts/ta-dataflow-programming/)
 > There are many visual programming implementations out there that make approaching some specific tasks easier. One of which is Unreal Engine&amp;rsquo;s Blueprint&amp;rsquo;s system.
