@@ -5,6 +5,12 @@ Just a bunch of guys from around the world with interests in technology, sharing
 We sometimes write about our pain...
 
 <!-- BLOG-POST-LIST:START -->
+[wes4m](https://github.com/wes4m): [Hybrid Migration: Native to React Native](https://wes4m.io/posts/rn-migration/)
+> At Ejaro, we have been transitioning to React Native over the past two years while continuing to build new features and growing our app. Instead of undertaking a complete rewrite from scratch, we adopted a hybrid approach. This strategy has been successfully implemented by companies like Shopify and others. In this post I go over some of the decision taking approaches, challenges, and solutions we implemented.
+Why Move to React Native?
+
+
+
 [wes4m](https://github.com/wes4m): [Lessons from a $5 VPS, Bad Design, and a Traffic Spike](https://wes4m.io/posts/5vps/)
 > A year ago I duct-taped together, in a couple of days, an app for fun as an experiment. Without putting much thought into its design or scaleability. I then put it to run on a tiny ~$5 VPS. Not expecting more than a few users. It went on to gain users very slowly for a year. Until, fast forward to last month, STUDI&amp;rsquo;s traffic and users spiked nearly 20x in just a few days, and reached 2nd on AppStore&amp;rsquo;s education charts.
 
@@ -31,11 +37,6 @@ docker, xdebug, git
 > A relatively basic Laravel integration with an Amazon Cognito user pool with two clients. The first client for web users will be used to initiate &lpar;from Laravel&rpar; login/logout on Cognito&amp;rsquo;s hosted UI with email/password. The second client will be for system users, which will generate tokens with email/password through API instead of hosted UI. Finally, a simple console command to decode/verify web and system users&amp;rsquo; JTWs from the user pool&amp;rsquo;s JWKS.
 
 laravel, cognito, terraform
-
-[ally](https://github.com/alistaircol): [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
-> Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
-
-hugo, alpine, fuse
 <!-- BLOG-POST-LIST:END -->
 
 You can see more here:
